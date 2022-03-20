@@ -2,7 +2,7 @@
 
 Get the full size ProFile Picture from any Instagram account.
 
-**Full PFP** is part of the HectareaBasicTools and was made by Hectarea
+**Full PFP** is part of the HectareaBasicTools and was made by Hectarea.
 
 # API
 
