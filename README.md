@@ -6,13 +6,14 @@ Get the full size ProFile Picture from any Instagram account.
 
 # API
 ```Python
-from fullpfp import fullpfp
+from FullPFP import ProfilePicture
 
 username = "hectareatools"
 
-url = fullpfp.urlFrom(username)
+url = ProfilePicture.urlFrom(username)
 
 print(url)
+
 ```
 
 # Console App

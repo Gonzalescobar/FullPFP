@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: fullpfp
+Version: 4.21.1
+Summary: Get the full size ProFile Picture from any Instagram account.
+Home-page: https://hectarea.netlify.app/
+Author: Héctarea
+Author-email: gonzalescobar@gmail.com
+License: MIT
+Download-URL: https://github.com/Hectarea/FullPFP/archive/refs/tags/v4.2.0.tar.gz
+Keywords: Instagram,Scraping,Tool
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# Full PFP
+
+Get the full size ProFile Picture from any Instagram account.
+
+**Full PFP** is part of the HectareaBasicTools and was made by Hectarea.
+
+# API
+```Python
+from FullPFP import ProfilePicture
+
+username = "hectareatools"
+
+url = ProfilePicture.urlFrom(username)
+
+print(url)
+
+```
+
+# Console App
+
+```bash
+python -m fullpfp
+```
+
+or
+
+```bash
+fullpfp
+```
+
+

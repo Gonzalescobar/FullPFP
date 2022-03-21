@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+FullPFP/ProfilePicture.py
+FullPFP/__init__.py
+FullPFP/__main__.py
+fullpfp/__init__.py
+fullpfp/__main__.py
+fullpfp.egg-info/PKG-INFO
+fullpfp.egg-info/SOURCES.txt
+fullpfp.egg-info/dependency_links.txt
+fullpfp.egg-info/requires.txt
+fullpfp.egg-info/top_level.txt
