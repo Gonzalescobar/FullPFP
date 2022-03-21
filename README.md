@@ -5,15 +5,15 @@ Get the full size ProFile Picture from any Instagram account.
 **Full PFP** is part of the HectareaBasicTools and was made by Hectarea.
 
 # API
+```Python
+from fullpfp import fullpfp`
 
-`from fullpfp import fullpfp`
+username = "hectareatools"
 
+url = fullpfp.urlFrom(username)
 
-`username = "hectareatools"`
-
-`url = fullpfp.urlFrom(username)`
-
-`print(url)`
+print(url)
+```
 
 # Console App
 
